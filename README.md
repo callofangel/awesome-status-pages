@@ -20,7 +20,7 @@ Awesome list of status pages open source software, online services and public st
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [Statping](https://github.com/hunterlong/statping)
 * [Statusfy](https://marquez.co/statusfy)
-* [StatusOK](https://github.com/sanathp/statusok)
+* [StatusOK](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your computer.Get notified through Slack or E-mail when your server is down or response time is more than expected.
 * [Statuspal](https://github.com/statuspal/statuspal) - A self-hosted CE of [statuspal.io](https://statuspal.io). Last OSS commit was mid-2018, and I unfortunately couldn't get it to work. (Unless you figure out how to make this work, I'd recommend another option)
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
