@@ -15,17 +15,14 @@ Awesome list of status pages open source software, online services and public st
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
-* [LambStatus](https://lambstatus.github.io) (*Deprecated*)
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * [Server-Status](https://github.com/Pryx/server-status)
-* [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [Statping](https://github.com/hunterlong/statping)
 * [Statusfy](https://marquez.co/statusfy)
 * [StatusOK](https://github.com/sanathp/statusok)
 * [Statuspal](https://github.com/statuspal/statuspal) - A self-hosted CE of [statuspal.io](https://statuspal.io). Last OSS commit was mid-2018, and I unfortunately couldn't get it to work. (Unless you figure out how to make this work, I'd recommend another option)
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
-* [Staytus](https://staytus.co/)  (*Deprecated*)
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
@@ -53,7 +50,6 @@ Awesome list of status pages open source software, online services and public st
 * [StatusKit](https://statuskit.com/)
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal.io](https://statuspal.io)
-* ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
