@@ -17,7 +17,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.~~ **(Projet mal maintenue et manque de documentation)**
 * ~~[Monitoror](https://monitoror.com/) - monitoring wallboard~~ **(Pas d'historisation des erreurs et impossibilité d'en faire)**
 * [Server-Status](https://github.com/Pryx/server-status)
-* [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
+* ~~[Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page~~ **(Pas d'historisation)**
 * [Statping](https://github.com/hunterlong/statping)
 * [Statusfy](https://marquez.co/statusfy) or [Statusfy Github link](https://github.com/juliomrqz/statusfy) - DEMO : https://demo.statusfy.co
 * [StatusOK](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your computer.Get notified through Slack or E-mail when your server is down or response time is more than expected.
