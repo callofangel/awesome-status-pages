@@ -10,7 +10,7 @@ Awesome list of status pages open source software, online services and public st
 ## Opensource
 * ~~[Cachet](https://cachethq.io/) - Laravel based status page system for everyone.~~ **(Pas de polling)**
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
-* [Corestats](https://github.com/jayfk/statuspage) - turn GitHub issues into a status page
+* ~~[Corestats](https://github.com/jayfk/statuspage) - turn GitHub issues into a status page~~ **(Pas de polling)**
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
