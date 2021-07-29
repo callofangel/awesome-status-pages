@@ -27,7 +27,7 @@ Awesome list of status pages open source software, online services and public st
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
 * ~~[health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects~~ **(Projet moins bien que health check impoosiblité de custom)**
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). **(Interresant mais pas d'historique)**
-* [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
+* ~~[Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.~~ **(PAs notre Techno)**
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * [Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.
