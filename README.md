@@ -13,7 +13,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[Corestats](https://github.com/jayfk/statuspage) - turn GitHub issues into a status page~~ **(Pas de polling)**
 * ~~[cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)~~ **(Pas de creation d'incident automatique)**
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
-* [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
+* ~~[Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page~~ **(Base la status page sur le depot git et les incidents)**
 * ~~[Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.~~ **(Projet mal maintenue et manque de documentation)**
 * ~~[Monitoror](https://monitoror.com/) - monitoring wallboard~~ **(Pas d'historisation des erreurs et impossibilité d'en faire)**
 * [Server-Status](https://github.com/Pryx/server-status)
