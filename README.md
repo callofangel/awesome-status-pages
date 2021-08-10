@@ -30,7 +30,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.~~ **(PAs notre Techno)**
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
-* [Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.
+* ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ **(Manque de documentation pour l'installation)**
 * ~~[Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)~~ **(Pas d'histoisation automatique)**
 
 ## Services
